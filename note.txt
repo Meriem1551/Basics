@@ -4,3 +4,4 @@ p.firstItem
 p.secondItem
 {the item in this file} =  require('path') 
 console.log(the item in this file)
+The line after the blog which reads data executed first cz reading a file takes a time
