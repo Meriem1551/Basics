@@ -1,0 +1,6 @@
+to access element in a separated file::
+p = required('path')
+p.firstItem
+p.secondItem
+{the item in this file} =  require('path') 
+console.log(the item in this file)
